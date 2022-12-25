@@ -1,4 +1,4 @@
-# Mooddy 😉
+## Mooddy 😉
 
 This project is submitted for [MLH - Design-a-thon 2022 Hackathon](https://design-a-thon.devpost.com/)
 
@@ -14,7 +14,7 @@ It's a **Chrome Extension** that allows you to add any **gif** that you want acc
 
 ## What it does? 🤔
 
-The user just need to click on the extension and a popup page will appear where they have to select any gif that they want to add as a background to their web page, and that gif will be added as a background to that web page. If the user wants to reset it then they have to just click on **RESET** button and everything will be reset.
+The user just needs to click on the extension and a popup page will appear where they have to select any gif that they want to add as a background to their web page, and that gif will be added as a background to that web page. If the user wants to reset it then they have to just click on **RESET** button and everything will be reset.
 
 
 ## How I built it ⚙️
